@@ -2,7 +2,7 @@
 
 Presentaion Video: https://youtu.be/Yl02V4_rKpM
 
-Technical & Soft Skills:
+# Technical & Soft Skills:
 
  Proficiency in ETL methodology (Extract, Transform, Load).
  
@@ -14,7 +14,7 @@ Technical & Soft Skills:
  
  Utilizing DAX to create calculated columns.
  
-Soft Skills:
+# Soft Skills:
 
  Refined understanding of Sales Reports
  
@@ -24,7 +24,7 @@ Soft Skills:
  
  Developing a systematic approach to devising a report building plan.# Cofee_Sales_Analysis
  
-Dashboard Skills:
+# Dashboard Skills:
 
  Plotted some line charts to understand the peak hours of the Coffee sales in a day.
  
