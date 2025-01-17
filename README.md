@@ -1,7 +1,5 @@
 # Coffee-Shop-sales
 
-Presentaion Video: https://youtu.be/Yl02V4_rKpM
-
 # Technical & Soft Skills:
 
  Proficiency in ETL methodology (Extract, Transform, Load).
